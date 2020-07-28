@@ -1,0 +1,12 @@
+############
+## NodeJS ##
+############
+
+node_modules/
+package-lock.json
+
+############
+## System ##
+############
+
+.DS_Store

@@ -1,0 +1,95 @@
+# See https://github.com/probot/settings for all available settings.
+
+# General Repository Configuration
+repository:
+  name: iamrecursion
+  description: A profile readme for Ara Adkins
+  homepage: https://github.com/iamrecursion
+  topics: profile readme profile-readme iamrecursion
+
+  private: false
+
+  has_issues: true
+  has_wiki: false
+  has_projects: false
+  has_downloads: false
+
+  default_branch: main
+
+  allow_squash_merge: true
+  allow_merge_commit: false
+  allow_rebase_merge: false
+
+# The repository labels configuration
+labels:
+  - name: "Category: Content"
+    color: "#d1f0fd"
+    description: Issues with content
+  - name: "Category: Style"
+    color: "#d1f0fd"
+    description: Issues with style
+  - name: "Category: Ara"
+    color: "#d1f0fd"
+    description: Want to contact me? Open an issue!
+
+  - name: "Priority: High"
+    color: "#fff1c1"
+    description: Should be completed in the next two weeks
+  - name: "Priority: Highest"
+    color: "#fff1c1"
+    description: Should be completed ASAP
+  - name: "Priority: Low"
+    color: "#fff1c1"
+    description: Should be completed in the next three months
+  - name: "Priority: Lowest"
+    color: "#fff1c1"
+    description: Should be completed at some point
+  - name: "Priority: Medium"
+    color: "#fff1c1"
+    description: Should be completed in the next six weeks
+
+  - name: "Size: Small"
+    color: "#ffdfd3"
+    description: Requires a small time commitment
+  - name: "Size: Medium"
+    color: "#ffdfd3"
+    description: Requires a medium time commitment
+  - name: "Size: Large"
+    color: "#ffdfd3"
+    description: Requires a large time commitment
+  - name: "Size: Unknown"
+    color: "#ffdfd3"
+    description: Requires an unknown time commitment
+
+  - name: "Status: Cannot Reproduce"
+    color: "#eeeeee"
+    description: Can't reproduce the issue
+  - name: "Status: Duplicate"
+    color: "#eeeeee"
+    description: A duplicate issue
+  - name: "Status: Info Needed"
+    color: "#eeeeee"
+    description: More information needed from submitter
+  - name: "Status: Invalid"
+    color: "#eeeeee"
+    description: Not valid for some reason
+  - name: "Status: Research Needed"
+    color: "#eeeeee"
+    description: The task will require heavy research to complete
+  - name: "Status: Wontfix"
+    color: "#eeeeee"
+    description: Will not be fixed / not a bug
+
+  - name: "Type: Bug"
+    color: "#ede2fe"
+    description: A bug in Enso
+  - name: "Type: Enhancement"
+    color: "#ede2fe"
+    description: An enhancement to Enso
+  - name: "Type: Discussion"
+    color: "#ede2fe"
+    description: A discussion about Enso
+  - name: "Type: Question"
+    color: "#ede2fe"
+    description: A question about Enso
+

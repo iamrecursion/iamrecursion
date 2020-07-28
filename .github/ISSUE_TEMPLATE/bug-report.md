@@ -1,9 +1,10 @@
 ---
 name: Bug Report
 about: Report a bug with this readme.
-title: ""
-labels: "Type: Bug"
-assignees: ""
+title: ''
+labels: 'Type: Bug'
+assignees: ''
+
 ---
 
 ### General Summary

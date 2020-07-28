@@ -1,9 +1,10 @@
 ---
 name: Task
 about: Create a new task for this repo
-title: ""
-labels: ""
-assignees: ""
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 ### Summary

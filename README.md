@@ -51,4 +51,4 @@ public ones are listed below:
 - [**Recursion Music:**](https://iamrecursion.com) Mixing and mastering in a
   custom-built studio.
 
-![Ara's Stats](https://github-readme-stats.vercel.app/api?username=iamrecursion&hide=["stars"]&show_icons=true&count_private=true&text_color=000000&title_color=000000&icon_color=000000&hide_border=true)
+<!-- ![Ara's Stats](https://github-readme-stats.vercel.app/api?username=iamrecursion&hide=["stars"]&show_icons=true&count_private=true&text_color=000000&title_color=000000&icon_color=000000&hide_border=true) -->

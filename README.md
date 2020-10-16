@@ -48,6 +48,8 @@ public ones are listed below:
 - [**Enso IDE:**](https://github.com/enso-org/enso) An IDE to support using
   Enso, providing a high-performance and intuitive GUI for interacting with your
   programs.
+- [**Enso Rust Libraries:**](https://github.com/enso-org/rust-lib/) The Rust
+  libraries that we use for developing Enso and its IDE.
 - [**Recursion Music:**](https://iamrecursion.com) Mixing and mastering in a
   custom-built studio.
 

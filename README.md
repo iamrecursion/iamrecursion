@@ -1,7 +1,7 @@
 <p align="center">
   <a href="http://github.com/iamrecursion">
       <img
-          src="https://github.com/iamrecursion/iamrecursion/blob/main/resources/flame.png"
+          src="https://github.com/iamrecursion/iamrecursion/blob/main/resources/Flame%20Lesbian.png"
           alt="Ara Adkins"
           width="150"
       />

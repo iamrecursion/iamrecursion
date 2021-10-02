@@ -32,24 +32,24 @@
 </p>
 
 I'm **Ara Adkins**, a compiler and runtime developer, type-theorist, and
-low-level hacker, currently working [@enso-org](https://github.com/enso-org) on
-a new programming language. I'm passionate about UX, performance, and enabling
-better software through type systems. In my spare time, I run a mixing and
-mastering studio in the music industry, and love to ski, sail, and practice
-parkour and martial arts.
+low-level hacker, currently experimenting with new ideas in programming
+languages. I'm passionate about UX, performance, and enabling better and safer
+software through type systems. In my spare time, I run a mixing and mastering
+studio in the music industry, and love to ski, sail, and practice parkour and
+martial arts.
 
 ### 💻 Projects
 
-I'm currently working on many things, across a variety of technologies, but the
-public ones are listed below:
+Listed below are a few of the major projects that I am or have been involved
+with that I'm proud of. The public ones are linked.
 
+- **Aleph:** A dependently-typed programming language with dependent,
+  polymorphic row types used to give it the flexibility of dynamically-typed
+  systems. It is built on top of an advanced, generational graph IR and is
+  implemented on top of [GraalVM](https://github.com/oracle/graal).
 - [**Enso Engine:**](https://github.com/enso-org/enso) Hybrid visual and textual
-  functional programming, employing advanced type system and runtime features.
-- [**Enso IDE:**](https://github.com/enso-org/enso) An IDE to support using
-  Enso, providing a high-performance and intuitive GUI for interacting with your
-  programs.
-- [**Enso Rust Libraries:**](https://github.com/enso-org/rust-lib/) The Rust
-  libraries that we use for developing Enso and its IDE.
+  functional programming, employing runtime features to provide insight into
+  user data a any level.
 - [**Recursion Music:**](https://iamrecursion.com) Mixing and mastering in a
   custom-built studio.
 

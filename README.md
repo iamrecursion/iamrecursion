@@ -49,7 +49,7 @@ with that I'm proud of. The public ones are linked.
   implemented on top of [GraalVM](https://github.com/oracle/graal).
 - [**Enso Engine:**](https://github.com/enso-org/enso) Hybrid visual and textual
   functional programming, employing runtime features to provide insight into
-  user data a any level.
+  user data at any level.
 - [**Recursion Music:**](https://iamrecursion.com) Mixing and mastering in a
   custom-built studio.
 

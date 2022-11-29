@@ -18,7 +18,7 @@
          alt="Pronouns">
   </a>
   <a href="https://en.wikipedia.org/wiki/London">
-    <img src="https://img.shields.io/static/v1?label=Location&message=London%2C%20UK&color=2ec352&labelColor=2c3239"
+    <img src="https://img.shields.io/static/v1?label=Location&message=Denver%2C%20CO%2C%20USA&color=2ec352&labelColor=2c3239"
          alt="Location">
   </a>
   <a href="https://github.com/iamrecursion/iamrecursion/issues/new?assignees=iamrecursion&labels=Category%3A+Ara%2C+Type%3A+Question&template=question.md&title=">
@@ -45,8 +45,10 @@ with that I'm proud of. The public ones are linked.
 
 - **Aleph:** A dependently-typed programming language with dependent,
   polymorphic row types used to give it the flexibility of dynamically-typed
-  systems. It is built on top of an advanced, generational graph IR and is
-  implemented on top of [GraalVM](https://github.com/oracle/graal).
+  systems.
+- **REPLive:** A Swiss Army Knife of computation for your pocket or your wrist.
+  This project aims to make computing on the go as easy and intuitive as it can
+  be.
 - [**Enso Engine:**](https://github.com/enso-org/enso) Hybrid visual and textual
   functional programming, employing runtime features to provide insight into
   user data at any level.

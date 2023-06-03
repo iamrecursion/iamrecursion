@@ -43,7 +43,7 @@ martial arts.
 Listed below are a few of the major projects that I am or have been involved
 with that I'm proud of. The public ones are linked.
 
-- **Aleph:** A dependently-typed programming language with dependent,
+- **Lagrange:** A dependently-typed programming language with dependent,
   polymorphic row types used to give it the flexibility of dynamically-typed
   systems.
 - **REPLive:** A Swiss Army Knife of computation for your pocket or your wrist.

@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/static/v1?label=Pronouns&message=she%2Fher&color=2ec352&labelColor=2c3239"
          alt="Pronouns">
   </a>
-  <a href="https://en.wikipedia.org/wiki/London">
+  <a href="https://en.wikipedia.org/wiki/Denver">
     <img src="https://img.shields.io/static/v1?label=Location&message=Denver%2C%20CO%2C%20USA&color=2ec352&labelColor=2c3239"
          alt="Location">
   </a>

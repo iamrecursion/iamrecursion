@@ -17,17 +17,21 @@
     <img src="https://img.shields.io/static/v1?label=Pronouns&message=she%2Fher&color=2ec352&labelColor=2c3239"
          alt="Pronouns">
   </a>
-  <a href="https://en.wikipedia.org/wiki/Denver">
-    <img src="https://img.shields.io/static/v1?label=Location&message=Denver%2C%20CO%2C%20USA&color=2ec352&labelColor=2c3239"
+  <a href="https://en.wikipedia.org/wiki/Amsterdam">
+    <img src="https://img.shields.io/static/v1?label=Location&message=Amsterdam%2C%20NL&color=2ec352&labelColor=2c3239"
          alt="Location">
   </a>
-  <a href="https://github.com/iamrecursion/iamrecursion/issues/new?assignees=iamrecursion&labels=Category%3A+Ara%2C+Type%3A+Question&template=question.md&title=">
-    <img src="https://img.shields.io/static/v1?label=Contact&message=Open%20Issue&color=2ec352&labelColor=2c3239"
-         alt="Contact via Issue">
+  <a href="[mailto:me@ara.io](https://orcid.org/0009-0001-0117-7487)">
+    <img src="https://img.shields.io/static/v1?label=ORCiD&message=Look%20Me%20Up&color=2ec352&labelColor=2c3239"
+         alt="Look Me Up">
   </a>
   <a href="mailto:me@ara.io">
     <img src="https://img.shields.io/static/v1?label=Email&message=Click%20Here&color=2ec352&labelColor=2c3239"
          alt="Email">
+  </a>
+  <a href="https://github.com/iamrecursion/iamrecursion/issues/new?assignees=iamrecursion&labels=Category%3A+Ara%2C+Type%3A+Question&template=question.md&title=">
+    <img src="https://img.shields.io/static/v1?label=Contact&message=Open%20Issue&color=2ec352&labelColor=2c3239"
+         alt="Contact via Issue">
   </a>
 </p>
 

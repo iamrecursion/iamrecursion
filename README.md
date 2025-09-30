@@ -55,6 +55,11 @@ with that I'm proud of. The public ones are linked.
   Noir in Lean so we can reason about the correctness of Noir programs with a
   focus on UX and usability for non-professionals trying their hand at
   verification.
+- **[tctiSH](https://github.com/tctiSH/tctiSH):** An iSH-alike that runs under
+  the [TCTI](https://github.com/tctiSH/qemu/tree/with_tcti_vectors/tcg/aarch64-tcti)
+  pseudo-JIT to run arbitrary Linux software on an iOS or iPadOS device using
+  user-mode emulation. The threaded interpreter boasts improved performance over
+  a standard interpreter, but is not as good as a true JIT.
 - **Lagrange:** A dependently-typed programming language with dependent,
   polymorphic row types used to give it the flexibility of dynamically-typed
   systems.

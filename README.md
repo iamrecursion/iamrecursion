@@ -31,27 +31,32 @@
   </a>
 </p>
 
-I'm **Ara Adkins**, a compiler and runtime developer, type-theorist, and
-low-level hacker, currently experimenting with new ideas in programming
-languages. I'm passionate about UX, performance, and enabling better and safer
-software through type systems. In my spare time, I run a mixing and mastering
-studio in the music industry, and love to ski, sail, and practice parkour and
-martial arts.
+I'm **Ara Adkins**, a compiler and runtime developer, and type-theorist with a
+passion for formal verification. I love to work on UX, performance, and enabling
+better and safer software through type systems and verification. I also work on
+cryptographic systems and machine learning from time to time, and have a passion
+for computer graphics and simulation.
+
+In my spare time, I run an audio engineering business doing mixing and mastering
+in the music industry. I also love to make things of all kinds, and to ski,
+sail, and practice parkour and martial arts. I also like to go trail wheeling in
+my car!
 
 ### 💻 Projects
 
 Listed below are a few of the major projects that I am or have been involved
 with that I'm proud of. The public ones are linked.
 
+- **[Lampe](https://github.com/reilabs/lampe):** Formalising the semantics of
+  Noir in Lean so we can reason about the correctness of Noir programs with a
+  focus on UX and usability for non-professionals trying their hand at
+  verification.
 - **Lagrange:** A dependently-typed programming language with dependent,
   polymorphic row types used to give it the flexibility of dynamically-typed
   systems.
 - **REPLive:** A Swiss Army Knife of computation for your pocket or your wrist.
   This project aims to make computing on the go as easy and intuitive as it can
   be.
-- [**Enso Engine:**](https://github.com/enso-org/enso) Hybrid visual and textual
-  functional programming, employing runtime features to provide insight into
-  user data at any level.
 - [**Recursion Music:**](https://iamrecursion.com) Mixing and mastering in a
   custom-built studio.
 
